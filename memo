@@ -2,6 +2,10 @@ Git： もう怖くないGit！チーム開発で必要なGitを完全マスタ�
 
 Git - Git エイリアス https://git-scm.com/book/ja/v2/Git-%E3%81%AE%E5%9F%BA%E6%9C%AC-Git-%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%82%B9
 
+
+git diff --staged 
+ステージとコミットとの間のファイルの変更内容を表示します。
+
 2023/12/16
 0.5H
 
